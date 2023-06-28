@@ -26,5 +26,5 @@ and then will be added new value everytime the player choose to use the weapon f
 pointing towards the new value of the user option.
 
 # Screenshots of your game
-https://github.com/arepkim/hackathon2/assets/121500814/75e93453-7b0c-43a9-8eb4-60665bd18fc0.png
+https://github.com/arepkim/hackathon2/assets/121500814/75e93453-7b0c-43a9-8eb4-60665bd18fc0
 

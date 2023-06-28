@@ -15,7 +15,7 @@ THE MYSTERY WOODS feature including a various types of weapons wheter modern or 
 amount of damage towards the enemy. The enemy also will increase it level of difficulty eveytime reach a next level, then after clearing 
 all of the mini bosses you will encounter with  final boss of this game.
 
-#How object-oriented concepts were used to develop your game
+# How object-oriented concepts were used to develop your game
 We use the creation of header,cpp, and main.cpp for the whole code. Other than that we also implement basic OOP features such as 
 class, struct, member function 
 

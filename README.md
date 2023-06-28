@@ -11,7 +11,7 @@ only need two option for the player to proceed the game making it very simple an
 enemy you need to choose between wheter to attack or to runaway.
 
 # Features of your game.
-THE MYSTERY WOODS feature including a various types of weapons wheter modern or classic weapon, all this weapon will apply different 
+THE MYSTERY WOODS feature including a various types of weapons wheter modern or classic weapon, all this weapon will apply different
 amount of damage towards the enemy. The enemy also will increase it level of difficulty eveytime reach a next level, then after clearing 
 all of the mini bosses you will encounter with  final boss of this game.
 
@@ -26,5 +26,5 @@ and then will be added new value everytime the player choose to use the weapon f
 pointing towards the new value of the user option.
 
 # Screenshots of your game
-https://github.com/arepkim/hackathon2/assets/121500814/75e93453-7b0c-43a9-8eb4-60665bd18fc0
+https://github.com/arepkim/hackathon2/assets/121500814/75e93453-7b0c-43a9-8eb4-60665bd18fc0.png
 

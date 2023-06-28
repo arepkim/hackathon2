@@ -24,3 +24,7 @@ In this game we use linked list to be implement in this game, the funtion of lin
 the weapon choosen will just stay in it array of linked and no leaked of data happened. It will start as the header point to the null 
 and then will be added new value everytime the player choose to use the weapon for the next turn. Then it will change the direction 
 pointing towards the new value of the user option.
+
+# Screenshots of your game
+https://github.com/arepkim/hackathon2/assets/121500814/75e93453-7b0c-43a9-8eb4-60665bd18fc0
+
